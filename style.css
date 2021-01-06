@@ -35,7 +35,122 @@ section{
     border-radius: 5px;
     color: white;
     font-size: 700;
-    background-image: linear-gradient(45deg, tomato, orange);
+    background-image: linear-gradient(45deg, green, red);
+}
+.he1{
+    text-align: center;
+    color: orangered;
+}
+.side{
+    text-align: left;
+}
+.polaroid{
+    width: 250px;
+   float: left;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.25);
+    margin: 15px;
+    background-color: white;
+    border-radius: 10px;
+}
+.container{
+    padding: 10px;
+}
+.image1{
+    width: 100%; 
+}
+.padd{
+    padding-left: 20%;
+}
+.sec1{
+    height: 350px;
+    box-shadow: 0 4px 8px 0 rgba(5, 0, 0, 0);
+    background-color: rgb(240, 230, 230);
+}
+
+
+
+
+
+.rr1{
+    margin: 30px;
+    padding: 0px;
+
+}
+.ba{
+    position: relative;
+    width: 50%;
+    margin: 0 auto;
+}
+.ba img{
+    width: 100%;
+}
+.hea{
+    color: white;
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    width: 100%;
+    text-align: left;
+    font-size: 30px;
+}
+.hea2{
+    color: white;
+    position: absolute;
+    top: 35%;
+    left: 80%;
+    width: 90%;
+    text-decoration: none;
+    font-size: 30px;
+    text-align: left;
+    background-image: linear-gradient(45deg, green, red);
+    background-size: 15%;
+    background-repeat: no-repeat;
+    
+}
+
+
+
+.body1{
+    margin: 0;
+    padding: 0;
+    background-image: url(images/bac.png);
+    background-size: cover;
+    background-position: center center;
+    height: 90vh;
+
+}
+.wr{
+    width: 1170px;
+    margin: 5% auto;
+}
+.wr h2{
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    font-size: 60px;
+    color: red;
+    margin: 0;
+}
+.sis{
+    position: relative;
+    width: 31%;
+    height: 320px;
+    background: #fff;
+    box-sizing: border-box;
+    padding: 0 15px;
+    overflow: hidden;
+    float: left;
+    margin: 0 10px;
+    text-align: center;
+}
+.line{
+    width: 150px;
+    height: 3px;
+    background: #fff;
+    margin: 0 auto 60px auto;
+}
+.sis p{
+
 }
 footer p{
     text-align: center;
